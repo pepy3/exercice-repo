@@ -4,4 +4,6 @@ This will make a conflict!
 This realy will make conflict!
 Conflict is resolved!
 
-We are in master branc h again.
+Hello from other branch.:)
+
+We are in master branch again.
